@@ -13,6 +13,10 @@ This notebook transforms images into 2D potentials for the time-independent Schr
 
 The notebook includes examples using various images like 'star.png', 'sphere.png', 'koch.png', and a generated circular harmonic potential. For each example, it solves for eigenvalues and eigenvectors, constructs PDFs, and visualizes them. It also includes animations to demonstrate the time-dependent behavior of superposition states.
 
+![Example eigenstate](https://github.com/seamus-fallows/Schrodinger-2D/blob/main/koch5.png?raw=true)
+
+![Example animation](https://github.com/seamus-fallows/Schrodinger-2D/blob/main/animation.gif?raw=true)
+
 ## Note
 
 The animations may take some time to generate, depending on the discritization resolution.
